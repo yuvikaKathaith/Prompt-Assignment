@@ -24,3 +24,5 @@ Content guidelines:
 - Image: use an Unsplash technology-related placeholder from https://source.unsplash.com/800x600/?technology
 
 Return only the final HTML output.
+
+For the Hero section Use an Image related to AI, pick the free image from unsplash, pixabay or pexels
