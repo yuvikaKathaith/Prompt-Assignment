@@ -10,3 +10,12 @@ UI Improvements & Features:
 - CTA button: rounded corners, shadow-md, hover:shadow-lg, smooth transition
 - Font and spacing consistent with the rest of the page
 - Ensure full responsiveness across mobile, tablet, desktop
+
+// contact
+this is the code for the contact section of my website
+Improve the Ui of my contact page. Keep the layout clean modern and professional. make the left side content more visually appealing and structured with improved typography heirarchy and better spacing.
+Enhance the form on the right side with more polished inputs, subtle shadows , rounded corners. hover/ focus effects and overall better visual balance. Add better alignment, icons , refined spacing, and improve the button style to look premium.
+Here is what I want improved:
+- Make the "Get in touch" heading larger bolder and more prominent
+- Improve spacing between heading, description and contact details
+- Overall, make the entire section look premium, elegant and visually balanced
