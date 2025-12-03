@@ -1,0 +1,26 @@
+Generate a modern, responsive Hero Section using semantic HTML and TailwindCSS.
+
+Follow all global meta rules already provided.
+
+Specific requirements:
+- Do NOT include <html>, <head>, <body>, or any external scripts.
+- Output ONLY the hero section.
+- Use a full-width container with a max-w-7xl center alignment and responsive padding.
+- Layout: two-column style on desktop, stacked on mobile.
+- Left side: headline, subtext, and a CTA button.
+- Right side: an image or illustration (use a sample Unsplash image URL).
+- Headline should be bold, large, and visually dominant.
+- Subtext should be clean, readable, and not too long.
+- CTA button must be large, rounded, with smooth hover transition.
+- Image must have rounded-xl and shadow.
+- Use Tailwind classes like: grid, grid-cols-1, md:grid-cols-2, gap-10, py-20, px-6, rounded-xl, shadow-lg, text-4xl, font-bold.
+- Ensure perfect mobile responsiveness.
+- Use meaningful placeholder text, no lorem ipsum.
+
+Content guidelines:
+- Headline example: “Build Better Products with AI-Assisted Development”
+- Subtext example: “Generate clean, scalable frontend UI using tailored prompts for any project.”
+- CTA text: “Get Started”
+- Image: use an Unsplash technology-related placeholder from https://source.unsplash.com/800x600/?technology
+
+Return only the final HTML output.

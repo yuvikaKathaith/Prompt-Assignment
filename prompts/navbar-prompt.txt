@@ -1,0 +1,26 @@
+Generate a modern, clean, fully responsive Navigation Bar using semantic HTML and TailwindCSS.
+
+Follow these rules strictly:
+- Do NOT add <html>, <head>, or <body>.
+- Output ONLY the navbar section.
+- Use a max-w-7xl container centered with px-6.
+- Include: brand name (text logo), nav links, and a mobile hamburger menu.
+- Use flexbox for layout.
+- Desktop: links visible.
+- Mobile: links hidden and replaced with a slide-down menu.
+- Use Tailwind classes: flex, items-center, justify-between, space-x-8, py-4, hidden, block, md:hidden, md:flex.
+- Use smooth hover transitions.
+- Use a clean font with good spacing.
+- Make sure the mobile menu animates simply (show/hide with JS snippet).
+- Use Heroicons inline SVG for hamburger (menu) and X (close) icons.
+- Color theme: white navbar, dark text, subtle shadow.
+
+Brand name:
+- Use a simple text brand like “PromptCraft”.
+
+Links to include:
+- Home
+- Services
+- Contact
+
+Return only the final HTML + the minimal JS needed for mobile toggle.

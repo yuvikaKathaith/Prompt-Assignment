@@ -1,0 +1,25 @@
+Generate a modern, clean, responsive Footer Section using semantic HTML and TailwindCSS.
+
+Follow all global meta rules provided earlier.
+
+Section Requirements:
+- Do NOT include <html>, <head>, or <body>.
+- Output ONLY the footer section.
+- Use a full-width dark background (bg-gray-900) with white text.
+- Container: max-w-7xl, centered, px-6, py-12
+- Top area:
+  - Brand name (text logo)
+  - Short description: “Building AI-powered frontend solutions”
+- Middle area:
+  - 3 columns of links
+    - Column 1: Company → About, Careers, Blog
+    - Column 2: Resources → Docs, Tutorials, Support
+    - Column 3: Legal → Privacy Policy, Terms
+- Bottom area:
+  - Social icons (Heroicons SVG inline): Twitter, LinkedIn, GitHub
+  - Copyright text: “© 2025 PromptCraft. All rights reserved.”
+- Spacing: consistent, text aligned left
+- Hover states for links: text-gray-300 → text-white
+- Fully responsive (columns stack on mobile)
+
+Return only the final HTML output.

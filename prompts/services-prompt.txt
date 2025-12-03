@@ -1,0 +1,43 @@
+Generate a clean, modern, responsive Services/Features Section using semantic HTML and TailwindCSS.
+
+Follow all global meta rules provided earlier.
+
+Section Requirements:
+- Do NOT include <html>, <head>, or <body>.
+- Output ONLY the services/features section.
+- Use a centered container (max-w-7xl, px-6, mx-auto).
+- Layout: grid with 3 columns on desktop, 1 column on mobile, 2 columns on tablet.
+- Number of items: exactly 3 service cards.
+- Each card must include:
+  - An icon using Heroicons (inline SVG)
+  - A short title
+  - A short descriptive paragraph
+- Cards should have:
+  - Rounded-xl
+  - Soft shadow (shadow-md or shadow-lg)
+  - Border border-gray-100
+  - Padding (p-6 or p-8)
+  - Smooth hover animation: hover:shadow-xl + hover:-translate-y-1 + transition
+- Make spacing consistent: grid gap-8 or gap-10.
+- Ensure all text aligns left.
+- Use meaningful dummy content (not lorem ipsum).
+
+Text Guidelines:
+Use these 3 services:
+
+1. **AI-Powered UI Generation**
+   Description: Automatically generate clean, production-ready UI components tailored to your project.
+
+2. **Responsive Layouts**
+   Description: Every section adapts perfectly across devices with modern Tailwind utilities.
+
+3. **Reusable Prompt Systems**
+   Description: Create flexible prompts that generate consistent, scalable frontend components.
+
+Icon Guidelines:
+Use Heroicons (outline variants):
+- Sparkles icon
+- Device Phone Mobile icon
+- Cog icon
+
+Return only the final HTML output.

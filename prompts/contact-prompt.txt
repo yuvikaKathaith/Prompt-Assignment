@@ -1,0 +1,28 @@
+Generate a modern, responsive Contact / Lead Form Section using semantic HTML and TailwindCSS.
+
+Follow all global meta rules provided earlier.
+
+Section Requirements:
+- Do NOT include <html>, <head>, or <body>.
+- Output ONLY the contact section.
+- Use a centered container (max-w-7xl, px-6, mx-auto).
+- Layout:
+  - Desktop: 2-column (left: text, right: form)
+  - Mobile: stacked vertically
+- Left side:
+  - Headline: “Get in Touch”
+  - Short description: “Fill out the form and our team will contact you shortly.”
+- Right side (form):
+  - Fields: Full Name, Email Address, Phone Number, Message (textarea)
+  - Each input:
+    - rounded-lg, border, px-4, py-2
+    - focus:ring-2 focus:ring-blue-500
+    - accessible labels
+    - client-side validation (required, type=email for email)
+  - Submit button:
+    - Large, rounded, primary color, smooth hover effect
+- Spacing: consistent padding (py-20), grid gap-8
+- Text aligned left
+- Responsive and visually clean
+
+Return only the final HTML output.

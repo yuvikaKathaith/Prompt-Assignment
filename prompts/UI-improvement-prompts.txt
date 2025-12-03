@@ -1,0 +1,12 @@
+//navbar
+UI Improvements & Features:
+- Sticky at the top: sticky top-0 z-50
+- Semi-transparent background with blur: bg-white/80 backdrop-blur-sm
+- Subtle shadow: shadow-md
+- Layout: flex container, brand on left, navigation links on right
+- Desktop: links visible, spacing consistent, hover effect: hover:text-blue-500 transition
+- Mobile: links hidden, hamburger menu appears, slides down smoothly
+- Hamburger/close icons: Heroicons SVG inline
+- CTA button: rounded corners, shadow-md, hover:shadow-lg, smooth transition
+- Font and spacing consistent with the rest of the page
+- Ensure full responsiveness across mobile, tablet, desktop
